@@ -1,4 +1,4 @@
-*Hello,* *there!* 
+*Hello,* *there!* &#128515;
 
 My name is Rafael Vitorino and I'm a brazilian Software Engineer.
 In 2021 I started my career as a dev!
