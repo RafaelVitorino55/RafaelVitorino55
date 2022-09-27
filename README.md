@@ -4,10 +4,6 @@ My name is Rafael Vitorino and I'm a brazilian Software Engineer.
 In 2021 I started my career as a dev!
 Since then, I keep seeking knowledge all the time.
 
-<div align="center">
-  <a href="https://github.com/RafaelVitorino55">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVitorino55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 💡 Tech stack
 <div> 
 
